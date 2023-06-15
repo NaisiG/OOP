@@ -5,70 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b5a07d0-f3ff-48e2-96b3-86cb921075b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/MainFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/controllers/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/model/Fields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/model/FileOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/model/FileOperationImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/model/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/model/RepositoryFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/model/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/users.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/utils/PhoneException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/utils/Validate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/views/Commands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork05/views/ViewUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM01/Cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM01/Chocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM01/MainClassForSeminarOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM01/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM01/VendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/FlySpeed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/MainClassForSeminarTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/RunSpeed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/SwimSpeed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/animals/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/animals/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/animals/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/animals/Owl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/animals/base/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/animals/base/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/animals/base/Herbivores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/animals/base/Predator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/zoo/Soundable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM02/zoo/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM03/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM03/MainClassForSeminarThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM03/Personal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM03/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM04/Battle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM04/MainClassForSeminarFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM04/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM04/warriors/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM04/warriors/Infantryman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM04/warriors/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM04/weapons/Weapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM04/weapons/meleeWeapon/Axe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM04/weapons/meleeWeapon/Melee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM04/weapons/meleeWeapon/Sword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM04/weapons/rangedWeapon/Bow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM04/weapons/rangedWeapon/CrossBow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM04/weapons/rangedWeapon/Ranged.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM05/MainSF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM05/controllers/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM05/model/FileOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM05/model/FileOperationImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM05/model/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM05/model/RepositoryFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM05/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM05/model/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM05/views/Commands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM05/views/ViewUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminary/SM05/views/validator/NameAndSurnameValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork04/Solid6Isp1/src/solid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork04/Solid6Isp1/src/solid/isp/InternetPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork04/Solid6Isp1/src/solid/isp/Payable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork04/Solid6Isp1/src/solid/isp/PayableCreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork04/Solid6Isp1/src/solid/isp/PayablePhoneNomber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork04/Solid6Isp1/src/solid/isp/PayableWebMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork04/Solid6Isp1/src/solid/isp/TerminalPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/HomeWork/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/HomeWork/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/HomeWork/src/UserAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/HomeWork/src/report/Reportable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/HomeWork/src/report/Reporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/HomeWork/src/save/Persister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/HomeWork/src/save/Saveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid1Srp1/src/solid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid1Srp1/src/solid/srp/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid1Srp1/src/solid/srp/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid1Srp1/src/solid/srp/SquareDraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid2Srp2/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid2Srp2/src/solid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid2Srp2/src/solid/srp/models/FactoryCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid2Srp2/src/solid/srp/models/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid2Srp2/src/solid/srp/models/Preserved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid2Srp2/src/solid/srp/models/SaveToJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid3Ocp1/src/solid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid3Ocp1/src/solid/ocp/RightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid3Ocp1/src/solid/ocp/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid3Ocp1/src/solid/ocp/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid4Lsp1/src/solid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid4Lsp1/src/solid/ViewShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid4Lsp1/src/solid/lsp/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid4Lsp1/src/solid/lsp/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid5Lsp2/src/solid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid5Lsp2/src/solid/OrderCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid5Lsp2/src/solid/lsp/FactoryOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid5Lsp2/src/solid/lsp/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid5Lsp2/src/solid/lsp/OrderAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid5Lsp2/src/solid/lsp/OrderBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid7Dip/src/solid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid7Dip/src/solid/dip/PrintReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid7Dip/src/solid/dip/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid7Dip/src/solid/dip/ReportItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork06/Solid7Dip/src/solid/dip/Reportable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,10 +84,17 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nikit/OneDrive/Рабочий стол/Домашка/ООП (Семинары)/SM06&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/nikit/OneDrive/Рабочий стол/Домашка/Java/DZ_2/OOP/src/main/java/org/example/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.folding&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nikit\OneDrive\Рабочий стол\Домашка\Java\DZ_2\OOP\src\main\java\HomeWork06\Solid1Srp1\src" />
+      <recent name="C:\Users\nikit\OneDrive\Рабочий стол\Домашка\Java\DZ_2\OOP\src\main\java\HomeWork06\Solid1Srp1\src\solid" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
