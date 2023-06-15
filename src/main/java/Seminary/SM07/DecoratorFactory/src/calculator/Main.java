@@ -1,0 +1,10 @@
+package Seminary.SM07.DecoratorFactory.src.calculator;
+
+// Создать логирование операций, для класса Calculator. Класс Calculator не должен изменится.
+public class Main {
+    public static void main(String[] args) {
+        ICalculableFactory calculableFactory = new LogCalculableFactory(new Log());
+        ViewCalculator view = new ViewCalculator(calculableFactory);
+        view.run();
+    }
+}
